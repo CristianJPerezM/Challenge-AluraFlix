@@ -1,0 +1,33 @@
+{ "videos":[
+        {
+            "id": 1,
+            "titulo": "Jesse & Joy - ¡Corre!",
+            "capa": "../../../public/img/Jesse_&_Joy_Corre.png",
+            "link": "https://www.youtube.com/embed/P2hM9CLAMu4&list=PLFQYoerw2c8TMDlZ6V5lhjaShaUbAlGNq"
+        },
+        {
+            "id": 2,
+            "titulo": "Martin Garrix - Animals",
+            "capa": "../../../public/img/Martin_Garrix_Animals.png",
+            "link": "https://www.youtube.com/embed/gCYcHz2k5x0"
+        },
+        {
+            "id": 3,
+            "titulo": "Xantos - C Le Da",
+            "capa": "../../../public/img/Xantos_C_Le_Da.png",
+            "link": "https://www.youtube.com/embed/n4h1b9xf2VI"
+        },
+        {
+            "id": 4,
+            "titulo": "Sensacion Del Bloque",
+            "capa": "../../../public/img/Sensacion_Del_Bloque.png",
+            "link": "https://www.youtube.com/embed/ajQ7TSiwMU4"
+        },
+        {
+            "id": 5,
+            "titulo": "Don Omar - Virtual Diva",
+            "capa": "../../../public/img/Don_Omar_Virtual_Diva.png",
+            "link": "https://www.youtube.com/embed/vRBgZ4aMPio"
+        }
+]
+}

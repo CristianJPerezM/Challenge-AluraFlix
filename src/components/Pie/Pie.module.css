@@ -1,0 +1,20 @@
+.rodape{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 1.1em 10em;
+    background: #262626;
+    border-top: 4px solid #2271D1;
+    box-shadow: 0px 5px 29px rgba(34, 113, 209, 0.7);
+}
+
+.container{
+    height: 40px;
+    display: flex;
+    align-items: center;
+}
+
+.rodape img{
+    align-self: center;
+    width: 150px;
+}

@@ -1,0 +1,21 @@
+.link{
+    font-size: 18px;
+    font-weight: 400;
+    padding: .7em;
+    margin-left: 1em; 
+    text-transform: uppercase;
+    background-color: transparent;
+    color: antiquewhite;
+    border: 2px solid #FFFFFF;
+    border-radius: 10px;
+    cursor: pointer;
+    box-sizing: border-box;
+    cursor: pointer;
+
+}
+.link:hover{
+    color: #2271D1;
+    background: rgba(0, 0, 0, 0.9);
+    border: 2px solid #2271D1;
+    box-shadow: inset 0px 0px 12px 4px #2271D1;
+}
